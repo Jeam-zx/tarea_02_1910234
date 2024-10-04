@@ -1,5 +1,5 @@
 /**
- * Three.js Triangle Renderer
+ * triangle.js Triangle Renderer
  * This script creates a simple 3D scene with a colored triangle.
  */
 
