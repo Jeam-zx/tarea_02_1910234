@@ -6,7 +6,7 @@
 - **API**: Three.js
 
 ## Sistema Operativo
-Este proyecto se desarrolló en un sistema operativo Windows utilizando WSL2 (Windows Subsystem for Linux 2).
+Este proyecto se desarrolló en el sistema operativo Windows.
 
 ## Dependencias
 El programa utiliza las siguientes dependencias:

@@ -34,9 +34,9 @@ function createTriangle() {
     // Define triangle geometry (vertices)
     const geometry = new THREE.BufferGeometry();
     const vertices = new Float32Array([
-        -1, -1, 0,  // Bottom left
-        1, -1, 0,   // Bottom right
-        0, 1, 0     // Top
+        -1, -0.866, 0,  // Bottom left
+        1, -0.866, 0,   // Bottom right
+        0, 0.866, 0     // Top
     ]);
     geometry.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
 
