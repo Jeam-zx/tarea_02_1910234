@@ -1,0 +1,14 @@
+{
+  "author": "Jeamhowards Montiel",
+  "name": "webgl2-triangle",
+  "description": "A WebGL2 project to render a triangle with vertex colors.",
+  "main": "triangle.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
