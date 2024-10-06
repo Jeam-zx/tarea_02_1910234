@@ -1,4 +1,5 @@
 /node_modules
+/Three/node_modules
 /.vscode
 /OpenGL/build
 build

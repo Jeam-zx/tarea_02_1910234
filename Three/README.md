@@ -16,7 +16,7 @@ El programa utiliza las siguientes dependencias:
 - `vite`: ^5.4.8
 
 ## Instrucciones para Ejecutar el Programa
-Desde el directorio raíz del proyecto, que contiene la carpeta Three:
+Desde la carpeta `Three`:
 
 1. **Instalar las dependencias**:
     ```sh

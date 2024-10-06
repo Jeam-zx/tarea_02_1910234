@@ -18,7 +18,7 @@ El programa utiliza las siguientes dependencias:
 ## Instrucciones para Ejecutar el Programa
 Para ejecutar el programa, se asume que cuenta con MinGW64 y CMake instalados en su sistema. Además, se asume que las variables de entorno de MinGW64 y CMake están configuradas correctamente.
 
-Desde la carpeta OpenGl:
+Desde la carpeta `OpenGl`:
 
 1. **Crear el directorio de compilación**:
     ```sh
