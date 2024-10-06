@@ -9,7 +9,7 @@
 Este proyecto fue desarrollado en un sistema operativo Windows.
 
 ## Dependencias
-El proyecto utiliza las siguientes dependencias:
+El proyecto utiliza WebGL2 como API por lo que se asume que el navegador soporta esta tecnología. Además, se utilizan las siguientes dependencias:
 - `node`: ^20.14.0
 - `npm`: ^10.7.0
 - `vite`: ^5.4.8
