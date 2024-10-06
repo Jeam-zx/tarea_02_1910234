@@ -1,4 +1,4 @@
-# OpenGL - Triángulo con Colores de Vértice
+# OpenGL - Triángulo con Vértices de Colores
 
 ## Información General
 - **Nombre**: Jeamhowards Montiel
