@@ -2,4 +2,5 @@
 /Three/node_modules
 /.vscode
 /OpenGL/build
+/WebGL2/node_modules
 build
