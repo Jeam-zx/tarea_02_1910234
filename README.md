@@ -17,4 +17,4 @@ Este proyecto muestra un triángulo equilátero en pantalla con los colores rojo
 
 Puedes ver un video explicativo del proyecto en el siguiente enlace:
 
-[Ver Video en YouTube](https://www.youtube.com/)
+[Ver Video en YouTube](https://youtu.be/xBKWYcfJrRQ)
