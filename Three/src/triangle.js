@@ -1,6 +1,5 @@
 /**
- * triangle.js Triangle Renderer
- * This script creates a simple 3D scene with a colored triangle.
+ * This script creates a Three.js scene with a colored triangle.
  */
 
 import * as THREE from 'three';

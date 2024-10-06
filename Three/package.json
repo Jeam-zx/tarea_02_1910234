@@ -1,4 +1,8 @@
 { 
+  "author": "Jeamhowards Montiel",
+  "name": "three-triangle",
+  "description": "A Three.js project to render a triangle with vertex colors.",
+  "main": "triangle.js",
   "type": "module",
   "dependencies": {
     "three": "^0.169.0"
