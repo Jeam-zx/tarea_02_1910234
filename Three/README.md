@@ -1,4 +1,4 @@
-# Three.js - Triángulo con Colores de Vértice
+# Three.js - Triángulo con Vértices de Colores
 
 ## Información General
 - **Nombre**: Jeamhowards Montiel
